@@ -1,6 +1,6 @@
 # Design Patterns
 
-This repository contains examples of various design patterns implemented in [Your Programming Language].
+This repository contains examples of various design patterns implemented in java.
 
 ## Table of Contents
 
